@@ -1,4 +1,4 @@
-1. Eine Java Datei mit native-method erstelltn
+1. Eine Java Datei mit native-method erstellen
 2. Eine .h Datei aus der Java-Klasse generieren
  -> javac -h . JNIHello.java
 3. Die Dateien hello.h & hello.cpp händisch erstellen
